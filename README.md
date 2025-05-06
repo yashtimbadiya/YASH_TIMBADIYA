@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm yash timbadiya</h1>
 <h3 align="center">A passionate MERN Stake developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashtimbadiya&label=Profile%20views&color=0e75b6&style=flat" alt="yashtimbadiya" /> </p>
 
 - 🌱 I’m currently learning **python, generative AI**
 
@@ -19,6 +18,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashtimbadiya&show_icons=true&locale=en&layout=compact" alt="yashtimbadiya" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashtimbadiya&show_icons=true&locale=en" alt="yashtimbadiya" /></p>
 
 
