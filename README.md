@@ -1,4 +1,4 @@
-# YASH_TIMBADIYA
+# YASH TIMBADIYA
 <h1 align="center">Hi 👋, I'm YASH TIMBADIYA</h1>
 <h3 align="center">A passionate MERN Stake developer from India</h3>
 
